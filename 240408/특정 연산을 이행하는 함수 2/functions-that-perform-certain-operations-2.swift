@@ -15,4 +15,4 @@ var item = arr
   }
   .sorted(by: >)
 
-print("\(item[0]) \(item[1]) \(item[2])")
+print("\(item[0]) \(item[2]) \(item[1])")
