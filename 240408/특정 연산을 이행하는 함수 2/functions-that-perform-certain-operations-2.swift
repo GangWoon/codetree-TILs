@@ -13,5 +13,6 @@ var item = arr
       return Int(round($0))
     }
   }
+  .sorted(by: >)
 
 print("\(item[0]) \(item[1]) \(item[2])")
